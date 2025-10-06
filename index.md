@@ -9,7 +9,7 @@ title: Zoe Ng
 ![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am a engineering student in Cornell University interested in Mechanical Engineering and Computer Science.
+My name is {{ site.name }}, and I am an undergraduate student in Cornell University interested in Mechanical Engineering and Computer Science.
 
 
 [your pitch paragraph about your passions, knowledge and interestst.] 
