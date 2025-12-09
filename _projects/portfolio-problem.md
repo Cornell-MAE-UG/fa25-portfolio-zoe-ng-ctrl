@@ -13,3 +13,8 @@ The picture above depicts the mechanism I designed.
 Here is the full question and calculations:
 
 ![Photo of old radio]({{ "/assets/images/portfolio-design.jpg" | relative_url }}){: .block-image-l style="width: 500px"}
+
+![Photo of old radio]({{ "/assets/images/IMG_0235.jpg" | relative_url }}){: .block-image-l style="width: 500px"}
+![Photo of old radio]({{ "/assets/images/IMG_0236.jpg" | relative_url }}){: .block-image-l style="width: 500px"}
+![Photo of old radio]({{ "/assets/images/IMG_0237.jpg" | relative_url }}){: .block-image-l style="width: 500px"}
+![Photo of old radio]({{ "/assets/images/IMG_0238.jpg" | relative_url }}){: .block-image-l style="width: 500px"}
