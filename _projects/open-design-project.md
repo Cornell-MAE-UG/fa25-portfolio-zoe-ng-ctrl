@@ -44,11 +44,12 @@ Our design consists of:
 - Outer housing for shaft
 - Bracket for Mounting the Angle Spray Duster
 
-Here is a drawing of our design and a picture of the functional prototype:
+Here is a drawing of our design and a picture of our prototype:
 ![Photo of drawing]({{ "/assets/images/prototype-drawing.png" | relative_url }}){: .block-image-l style="width: 550px"}
 
 ![Photo of prototype]({{ "/assets/images/IMG_0121.jpg" | relative_url }}){: .block-image-l style="width: 550px"}
 
+<br>
 
 ### What was Tested
 We tested three main aspects of the prototype.
@@ -59,11 +60,14 @@ Next, we tested the structural stability of the housing to assess whether the ho
 
 Finally, we tested the effectiveness of the air stream to determine whether it was concentrated and forceful enough to displace SLFs at a target distance of 0.5 m. We used ~1 g proxy targets placed at varying distances from the nozzle and recorded the maximum effective displacement distance.
 
+<br>
 
 ### Outcome
 Our prototype successfully demonstrated the core functionality of the design: the mechanism was able to actuate the trigger and produce a focused air stream capable of displacing proxy SLF targets. Testing also revealed several limitations in the current iteration. In particular, shaft deflection reduced the efficiency of trigger actuation, and the nozzle orientation limited the effective range of the air stream. As a result, the prototype did not yet achieve our target performance of reliable SLF removal at 0.5 m.
 
 These findings informed the next iteration of our design. Moving forward, we plan to strengthen the shaft to reduce deflection, improve the housing structure for greater stability, and adjust the nozzle orientation to enhance both range and targeting accuracy.
+
+<br>
 
 Here is a more in-depth document describing our functional prototype, the tests we conducted and their respective outcomes:
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vS2NqJ4t7ecoCgoWGFFAy-fVEn9Y6wlesh3HlkaAEJi1s5089RL0vjtZFD7dNp6Yxzlsj3Zazw7sxqs/pub?embedded=true" width="100%" height="600px"></iframe>
