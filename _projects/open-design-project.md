@@ -3,7 +3,7 @@ layout: project
 title: Open Design Project
 description: Open Design Project for MAE 2250, Introduction to Mechanical Design
 technologies: [Autodesk Fusion]
-image: /assets/images/grapeharvester.png
+image: /assets/images/IMG_1022.jpeg
 ---
 
 
@@ -77,10 +77,13 @@ These findings informed the next iteration of our design. Moving forward, we pla
 Here is a more in-depth document describing our functional prototype, the tests we conducted and their respective outcomes:
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vS2NqJ4t7ecoCgoWGFFAy-fVEn9Y6wlesh3HlkaAEJi1s5089RL0vjtZFD7dNp6Yxzlsj3Zazw7sxqs/pub?embedded=true" width="100%" height="600px"></iframe>
 
+<br>
 
 <h2 id="client-report">Client Report</h2>
 
 Our client report summarizes our final proposed solution, prototype performance, conclusions, and recommended next steps.
+
+<br>
 
 ### Proposed Solution
 
@@ -95,7 +98,7 @@ Key features include the 3D-printed trigger shaft, acrylic canister housing, cra
 
 <br>
 
-### How It Works / How It Is Used
+### How It Works
 
 The compressed air canister is secured inside the acrylic housing. When the user turns the crank handle, the shaft rotates and compresses the canister trigger, releasing a focused air stream. The gimbal allows the canister to rotate and aim toward SLFs on grape vines, helping target the insects before they enter the harvester.
 
@@ -117,7 +120,7 @@ Our main testing results were:
 
 Overall, our prototype is promising. It successfully demonstrated that compressed air can remove modelled SLFs and that the mechanism can be compact enough for future harvester integration.
 
-However, the design is not yet ready for field deployment. We recommend further development before field testing. The next iteration should:
+However, the design is not yet ready for field deployment, and we recommend further development before field testing. The next iteration would ideally be able to:
 
 - automate the shaft and gimbal using motors,
 - integrate camera or sensor-based SLF detection,
@@ -128,5 +131,14 @@ However, the design is not yet ready for field deployment. We recommend further 
 
 ### Full Client Report
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTN_t1FKzDCe07kXqWNK5rjWPbhUe-iP6KhwJmEwvVDqRvc7b58BFeY-RPgiiWOhybb5NWJZt4iG5BK/pub?embedded=true"></iframe>
+<br>
 
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTN_t1FKzDCe07kXqWNK5rjWPbhUe-iP6KhwJmEwvVDqRvc7b58BFeY-RPgiiWOhybb5NWJZt4iG5BK/pub?embedded=true" width="100%" height="600px"></iframe>
+
+<br>
+
+### Final Poster
+
+<br>
+
+<iframe src="/assets/odp-poster.pdf" width="100%" height="600px">
