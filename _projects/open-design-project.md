@@ -9,7 +9,7 @@ image: /assets/images/IMG_1022.jpeg
 
 As part of our Open Design Project for MAE 2250: Introduction to Mechanical Design, our team designed a mechanical solution to help reduce the spread of invasive Spotted Lanternflies (SLFs) during grape harvesting.
 
-SLFs can cling to grape crops and enter mechanical harvesters, where even one or two insects can contaminate a batch and make the grapes unsellable. Our project focuses on removing SLFs before the grapes enter the harvester using a compressed-air mechanism mounted to the front of the harvester. This would minimize interference with the harvesting process, reduce labor costs, and tackling the problem at this stage would give us the most control over the removal of SLFs in grape harvesting
+SLFs can cling to grape crops and enter mechanical harvesters, where even one or two insects can contaminate a batch and make the grapes unsellable. Our project focuses on removing SLFs before the grapes enter the harvester using a compressed-air mechanism mounted to the front of the harvester. This would minimize interference with the harvesting process, reduce labor costs, and tackling the problem at this stage gives us the greatest control over the removal of SLFs in grape harvesting.
 
 Our final concept uses a compressed air canister, a crank-actuated trigger mechanism, and a two-axis gimbal to aim and stabilize the air stream. This page documents our design process, including our three major project milestones: our client pitch, functional prototype, and final client report.
 
@@ -45,7 +45,7 @@ Our design consists of:
 - 8 oz. Disposable Any Angle Spray Duster 
 - 2x 8mm Shaft Steel Flanged Ball Bearing
 - Zinc Unthreaded Through-Hole-Mount Crank Handle
-- Shaft and Trigger Compresser 
+- Shaft and Trigger Compressor 
 - Outer housing for shaft
 - Bracket for Mounting the Angle Spray Duster
 
@@ -63,14 +63,14 @@ First, we evaluated the trigger actuation mechanism to determine whether it coul
 
 Next, we tested the structural stability of the housing to assess whether the housing and mounting system can securely support the compressed air can and maintain stability during operation. Due to manufacturing constraints, a wooden prototype was used in place of the intended 3D-printed housing. We qualitatively evaluated structural stability, checking for unwanted movement and ensuring that the housing did not interfere with the mechanism’s motion.
 
-Finally, we tested the effectiveness of the air stream to determine whether it was concentrated and forceful enough to displace SLFs at a target distance of 2.5 ft. We used ~1 g proxy targets placed at varying distances from the nozzle and recorded the maximum effective displacement distance.
+Finally, we tested the effectiveness of the air stream to determine whether it was concentrated and forceful enough to displace SLFs at a distances of up to 2.5 ft. We used ~1 g proxy targets placed at varying distances from the nozzle and recorded the maximum effective displacement distance.
 
 <br>
 
 ### Outcome
-Our prototype successfully demonstrated the core functionality of the design: the mechanism was able to actuate the trigger and produce a focused air stream capable of displacing proxy SLF targets. Testing also revealed several limitations in the current iteration. In particular, shaft deflection reduced the efficiency of trigger actuation, and the nozzle orientation limited the effective range of the air stream. As a result, the prototype did not yet achieve our target performance of reliable SLF removal at 0.5 m.
+Our prototype successfully demonstrated the core functionality of the design: the mechanism was able to actuate the trigger and produce a focused air stream capable of displacing proxy SLF targets. Testing also revealed several limitations in the current iteration. In particular, shaft deflection reduced the efficiency of trigger actuation, and the nozzle orientation limited the effective range of the air stream. 
 
-These findings informed the next iteration of our design. Moving forward, we plan to strengthen the shaft to reduce deflection, improve the housing structure for greater stability, and add a 2-axis gimbal mechanism to provide increased aiming and stabilization.
+These findings informed the next iteration of our design. For our final prototype, we decided to strengthen the shaft to reduce deflection, improve the housing structure for greater stability, and add a 2-axis gimbal mechanism to provide increased aiming and stabilization.
 
 <br>
 
@@ -95,6 +95,8 @@ The design has two main subsystems:
 - **Gimbal System:** A two-axis gimbal allows the canister to aim at SLFs and remain stable while mounted on or near the harvester.
 
 Key features include the 3D-printed trigger shaft, acrylic canister housing, crank handle, bearings, and gimbal rings.
+
+![Photo of final prototype]({{ "/assets/images/IMG_1022.jpeg" | relative_url }}){: .block-image-l style="width: 550px"}
 
 <br>
 
@@ -131,14 +133,12 @@ However, the design is not yet ready for field deployment, and we recommend furt
 
 ### Full Client Report
 
-<br>
-
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vTN_t1FKzDCe07kXqWNK5rjWPbhUe-iP6KhwJmEwvVDqRvc7b58BFeY-RPgiiWOhybb5NWJZt4iG5BK/pub?embedded=true" width="100%" height="600px"></iframe>
 
 <br>
 
 ### Final Poster
 
-<br>
+Here is the PDF of our final poster for our MAE 2250 Exhibition:
 
 <iframe src="https://drive.google.com/file/d/1sP-VGIDI-MXFGUlQ92IJGLseOECazd_b/preview" width="640" height="480"></iframe>
