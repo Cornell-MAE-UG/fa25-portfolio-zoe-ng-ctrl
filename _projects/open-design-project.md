@@ -77,7 +77,7 @@ These findings informed the next iteration of our design. Moving forward, we pla
 Here is a more in-depth document describing our functional prototype, the tests we conducted and their respective outcomes:
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vS2NqJ4t7ecoCgoWGFFAy-fVEn9Y6wlesh3HlkaAEJi1s5089RL0vjtZFD7dNp6Yxzlsj3Zazw7sxqs/pub?embedded=true" width="100%" height="600px"></iframe>
 
-<br>
+<br><br>
 
 <h2 id="client-report">Client Report</h2>
 
@@ -141,4 +141,4 @@ However, the design is not yet ready for field deployment, and we recommend furt
 
 <br>
 
-<iframe src="/assets/odp-poster.pdf" width="100%" height="600px">
+<iframe src="https://drive.google.com/file/d/1sP-VGIDI-MXFGUlQ92IJGLseOECazd_b/preview" width="640" height="480"></iframe>
